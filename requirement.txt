@@ -1,0 +1,4 @@
+# Flask Framework
+Flask==2.0.2
+Jinja2==3.0.2
+MarkupSafe==2.0.1
